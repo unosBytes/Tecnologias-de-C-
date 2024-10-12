@@ -7,7 +7,7 @@ Una pequeña data sobre las tecnologias de c#
 4. **Xamarin:** Xamarin es un marco de desarrollo de aplicaciones móviles que se utiliza para crear aplicaciones móviles para iOS y Android. C# es uno de los lenguajes de programación principales que se utiliza con Xamarin.
 5. **Visual Studio:** Visual Studio es un entorno de desarrollo integrado (IDE) que se utiliza para desarrollar aplicaciones de Windows y web. C# es uno de los lenguajes de programación principales que se pueden utilizar con Visual Studio.
 <div content="center">
-  ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ycw71ccmd40zrp2qy6s.jpg)
+  <img href="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ycw71ccmd40zrp2qy6s.jpg"></img>
 </div>
 > [!NOTE]
 > El nombre de este lenguaje fue inspirado por la escala musical
