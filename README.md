@@ -8,5 +8,5 @@ Una pequeña data sobre las tecnologias de c#
 5. **Visual Studio:** Visual Studio es un entorno de desarrollo integrado (IDE) que se utiliza para desarrollar aplicaciones de Windows y web. C# es uno de los lenguajes de programación principales que se pueden utilizar con Visual Studio.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ycw71ccmd40zrp2qy6s.jpg)
-[!NOTE]
+> [!NOTE]
 > El nombre de este lenguaje fue inspirado por la escala musical
