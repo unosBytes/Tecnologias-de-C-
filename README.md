@@ -1,4 +1,4 @@
-# Tecnologias-de-C-
+# Tecnologias de C#
 Una pequeña data sobre las tecnologias de c#
 **C#** es un lenguaje de programacion de tipado en donde se utiliza una amplia variedad de tecnologias y plataformas. Algunas tecnologias mas importantes que utiliza **c#** incluyen:
 1. **.NET Framework:** El .NET Framework es un marco de desarrollo de aplicaciones que se utiliza para crear aplicaciones de Windows. C# es uno de los lenguajes de programación principales que se utiliza con el .NET Framework.
